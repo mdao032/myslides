@@ -1,0 +1,6 @@
+[submodule "myslides-serv"]
+	path = myslides-serv
+	url = https://github.com/mdao032/myslides-serv
+[submodule "myslides-ui"]
+	path = myslides-ui
+	url = https://github.com/mdao032/myslides-ui
