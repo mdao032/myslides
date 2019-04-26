@@ -1,0 +1,17 @@
+Slide 
+----------------
+Nom : String
+type : Gslide|Powerpoint 
+description : text
+price : String
+categorie : String
+couleur : String
+timestampCreation : Date
+timestampUpdate : Date
+
+user 
+-----------------
+username : String 
+email : String
+password : String
+lastLoginDate : String 
